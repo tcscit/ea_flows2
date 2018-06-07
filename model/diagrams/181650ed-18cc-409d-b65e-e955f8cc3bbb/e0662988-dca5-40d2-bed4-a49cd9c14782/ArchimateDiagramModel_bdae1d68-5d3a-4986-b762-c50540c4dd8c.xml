@@ -6,12 +6,59 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="78c9e4f4-5fb0-4f60-85bb-167d66344e9c"
-      name="商品上架"
+      name="销售计划"
       textAlignment="1">
     <bounds
-        x="132"
-        y="120"
-        width="502"
-        height="259"/>
+        x="24"
+        y="24"
+        width="445"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="95d2c90d-6980-4f63-b76f-d303b5e80c72">
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_f02e905d-d7f4-4a7e-978a-9ad86dc0eea8.xml#f02e905d-d7f4-4a7e-978a-9ad86dc0eea8"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="5721ad6e-3a65-45fc-b1df-cc6e6bf532bc"
+      name="网点运营"
+      textAlignment="1">
+    <bounds
+        x="516"
+        y="24"
+        width="400"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d574d6f0-e1ee-4775-872a-a67417b2bafb">
+      <bounds
+          x="204"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_4a398435-5349-40ff-a38a-47e4dc9eb950.xml#4a398435-5349-40ff-a38a-47e4dc9eb950"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="5407d96f-3006-4733-adf3-c12128e11673">
+      <bounds
+          x="36"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_a6e0221f-7f28-4ea1-b0b6-901efb5af364.xml#a6e0221f-7f28-4ea1-b0b6-901efb5af364"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
