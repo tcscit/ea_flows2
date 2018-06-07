@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="请休假"
+    name="#请休假"
     id="d0bc196a-dbbc-431a-b0d2-6dd0f61e812b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

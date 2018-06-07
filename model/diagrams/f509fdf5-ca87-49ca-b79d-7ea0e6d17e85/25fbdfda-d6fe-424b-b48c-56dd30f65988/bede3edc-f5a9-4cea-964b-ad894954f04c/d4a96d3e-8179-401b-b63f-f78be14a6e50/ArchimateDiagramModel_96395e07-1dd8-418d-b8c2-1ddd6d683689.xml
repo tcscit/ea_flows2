@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="出勤打卡"
+    name="#出勤打卡"
     id="96395e07-1dd8-418d-b8c2-1ddd6d683689">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
