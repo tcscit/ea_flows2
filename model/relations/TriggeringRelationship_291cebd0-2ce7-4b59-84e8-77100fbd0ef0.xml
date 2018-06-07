@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="适用于办事处"
+    id="291cebd0-2ce7-4b59-84e8-77100fbd0ef0">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_cfa590fd-4f89-49a9-97f5-e851f0e3a1be.xml#cfa590fd-4f89-49a9-97f5-e851f0e3a1be"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_114b0bc8-7560-4deb-8e7b-9487d7592f3a.xml#114b0bc8-7560-4deb-8e7b-9487d7592f3a"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3 销售管理"
+    id="bdae1d68-5d3a-4986-b762-c50540c4dd8c">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="78c9e4f4-5fb0-4f60-85bb-167d66344e9c"
+      name="商品上架"
+      textAlignment="1">
+    <bounds
+        x="132"
+        y="120"
+        width="502"
+        height="259"/>
+  </children>
+</archimate:ArchimateDiagramModel>

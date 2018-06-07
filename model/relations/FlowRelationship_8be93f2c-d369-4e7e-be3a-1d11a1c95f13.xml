@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">=经理级"
+    id="8be93f2c-d369-4e7e-be3a-1d11a1c95f13">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_522b7f13-5376-49e5-aacd-0eb183570a44.xml#522b7f13-5376-49e5-aacd-0eb183570a44"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_2cfff8cc-9fd2-436b-9e02-2d24a140fe69.xml#2cfff8cc-9fd2-436b-9e02-2d24a140fe69"/>
+</archimate:FlowRelationship>

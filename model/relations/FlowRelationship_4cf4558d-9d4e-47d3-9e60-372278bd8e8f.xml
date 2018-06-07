@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="金额>Y"
+    id="4cf4558d-9d4e-47d3-9e60-372278bd8e8f">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_2cfff8cc-9fd2-436b-9e02-2d24a140fe69.xml#2cfff8cc-9fd2-436b-9e02-2d24a140fe69"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_71ebf7ef-7825-43d7-b8d0-2be8b74df261.xml#71ebf7ef-7825-43d7-b8d0-2be8b74df261"/>
+</archimate:FlowRelationship>

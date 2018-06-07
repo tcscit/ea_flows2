@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="101155f2-ec8b-4d7c-9726-1155236e1d7a">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4885f537-3815-41d0-b736-899f7b3e3b3e.xml#4885f537-3815-41d0-b736-899f7b3e3b3e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_a5b6e4f3-285a-47aa-b07b-be9558dfd344.xml#a5b6e4f3-285a-47aa-b07b-be9558dfd344"/>
+</archimate:CompositionRelationship>
