@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="新品上市"
+    name="#新品上市"
     id="10fe15c0-5631-442f-86e1-c9879fac0715">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

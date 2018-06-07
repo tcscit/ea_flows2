@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="供应商管理"
+    name="#供应商管理"
     id="94bc39d1-7e7f-4a7b-9386-73fdc3fd4e3d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

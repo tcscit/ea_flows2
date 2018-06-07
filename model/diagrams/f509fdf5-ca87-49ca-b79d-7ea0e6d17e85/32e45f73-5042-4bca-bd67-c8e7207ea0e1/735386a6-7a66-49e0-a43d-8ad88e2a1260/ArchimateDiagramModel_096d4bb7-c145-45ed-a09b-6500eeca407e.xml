@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="品牌调研"
+    name="#品牌调研"
     id="096d4bb7-c145-45ed-a09b-6500eeca407e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

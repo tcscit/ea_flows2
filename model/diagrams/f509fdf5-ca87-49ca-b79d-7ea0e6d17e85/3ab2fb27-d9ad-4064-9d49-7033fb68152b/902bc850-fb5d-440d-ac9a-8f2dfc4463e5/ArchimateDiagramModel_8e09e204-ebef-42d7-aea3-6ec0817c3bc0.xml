@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="费用核销"
+    name="#费用核销"
     id="8e09e204-ebef-42d7-aea3-6ec0817c3bc0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
