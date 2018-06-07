@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="出库操作"
+    name="#出库操作"
     id="bd7afd1b-9246-4720-a6fc-aacb10f566ce">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

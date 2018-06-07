@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="库存足够"
+    id="4188fbc5-43cc-4139-afc6-a6928b841cab">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_f02e905d-d7f4-4a7e-978a-9ad86dc0eea8.xml#f02e905d-d7f4-4a7e-978a-9ad86dc0eea8"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_04d6aff4-6084-434d-b78a-f6984d5d359a.xml#04d6aff4-6084-434d-b78a-f6984d5d359a"/>
+</archimate:TriggeringRelationship>

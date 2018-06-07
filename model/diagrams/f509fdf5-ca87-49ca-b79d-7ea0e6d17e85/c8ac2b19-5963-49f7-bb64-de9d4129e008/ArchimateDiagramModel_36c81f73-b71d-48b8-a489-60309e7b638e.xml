@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="接收订单"
+    name="#接收采购订单"
     id="36c81f73-b71d-48b8-a489-60309e7b638e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
