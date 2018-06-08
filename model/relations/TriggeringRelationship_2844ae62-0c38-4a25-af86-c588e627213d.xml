@@ -1,11 +1,12 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="13f9e430-6747-43f9-a779-8633cd54a24b">
+    name="合格"
+    id="2844ae62-0c38-4a25-af86-c588e627213d">
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_aa57ea25-0474-4d44-b181-c20817639653.xml#aa57ea25-0474-4d44-b181-c20817639653"/>
+      href="BusinessProcess_69c478da-368d-4461-99c7-e3cb6b59dd05.xml#69c478da-368d-4461-99c7-e3cb6b59dd05"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_7dec9b8e-ec30-4599-bc52-1a034e70d3a6.xml#7dec9b8e-ec30-4599-bc52-1a034e70d3a6"/>
+      href="BusinessProcess_a1981674-27ab-4fe4-a120-11cb0610269d.xml#a1981674-27ab-4fe4-a120-11cb0610269d"/>
 </archimate:TriggeringRelationship>
