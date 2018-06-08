@@ -9,8 +9,8 @@
       name="考勤"
       textAlignment="1">
     <bounds
-        x="72"
-        y="48"
+        x="12"
+        y="24"
         width="553"
         height="349"/>
     <children
