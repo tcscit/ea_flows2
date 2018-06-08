@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="产品损坏"
+    id="0c506fad-a6c9-4736-a359-1b6de6ac87cd">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_0d0592de-3ec3-4e4d-8a6b-8026a7a4e8be.xml#0d0592de-3ec3-4e4d-8a6b-8026a7a4e8be"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_6a2c6945-5235-4609-aa6e-4cfe221badb8.xml#6a2c6945-5235-4609-aa6e-4cfe221badb8"/>
+</archimate:TriggeringRelationship>

@@ -146,10 +146,10 @@
           href="CompositionRelationship_44db1c03-198f-4ea0-9736-885a92278dcc.xml#44db1c03-198f-4ea0-9736-885a92278dcc"/>
     </sourceConnections>
     <bounds
-        x="156"
-        y="144"
+        x="192"
+        y="72"
         width="1141"
-        height="553"/>
+        height="469"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b9594906-8ba2-4e3b-b622-d8bbaed68af9"
@@ -252,8 +252,8 @@
             href="TriggeringRelationship_6636e0b7-090a-4575-b46a-10a438def8c3.xml#6636e0b7-090a-4575-b46a-10a438def8c3"/>
       </sourceConnections>
       <bounds
-          x="264"
-          y="240"
+          x="36"
+          y="228"
           width="120"
           height="55"/>
       <archimateElement
@@ -274,8 +274,8 @@
             href="TriggeringRelationship_ea5ac4d9-6eb4-496c-9372-6879b7f124ef.xml#ea5ac4d9-6eb4-496c-9372-6879b7f124ef"/>
       </sourceConnections>
       <bounds
-          x="492"
-          y="240"
+          x="288"
+          y="228"
           width="120"
           height="55"/>
       <archimateElement
@@ -296,8 +296,8 @@
             href="TriggeringRelationship_f9c3ab69-245e-4f1c-9c5c-b9907c309273.xml#f9c3ab69-245e-4f1c-9c5c-b9907c309273"/>
       </sourceConnections>
       <bounds
-          x="732"
-          y="240"
+          x="492"
+          y="228"
           width="120"
           height="55"/>
       <archimateElement
@@ -318,8 +318,8 @@
             href="TriggeringRelationship_10bdda0f-f955-4846-8097-408171f93c60.xml#10bdda0f-f955-4846-8097-408171f93c60"/>
       </sourceConnections>
       <bounds
-          x="972"
-          y="240"
+          x="732"
+          y="228"
           width="120"
           height="55"/>
       <archimateElement
@@ -350,7 +350,7 @@
       </sourceConnections>
       <bounds
           x="972"
-          y="360"
+          y="240"
           width="120"
           height="55"/>
       <archimateElement
@@ -398,7 +398,7 @@
         targetConnections="00220b59-de59-4036-ba7c-26adc1b23a2f 1e8f9832-d3f8-47d3-924e-8a2cfefad62f">
       <bounds
           x="972"
-          y="480"
+          y="360"
           width="120"
           height="55"/>
       <archimateElement

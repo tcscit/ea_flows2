@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="品质下降"
+    id="90ab86df-717b-446b-b533-b64b885232c5">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_0d0592de-3ec3-4e4d-8a6b-8026a7a4e8be.xml#0d0592de-3ec3-4e4d-8a6b-8026a7a4e8be"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_6fd4ee91-a39a-4bbd-bdd4-442900ae5900.xml#6fd4ee91-a39a-4bbd-bdd4-442900ae5900"/>
+</archimate:TriggeringRelationship>
