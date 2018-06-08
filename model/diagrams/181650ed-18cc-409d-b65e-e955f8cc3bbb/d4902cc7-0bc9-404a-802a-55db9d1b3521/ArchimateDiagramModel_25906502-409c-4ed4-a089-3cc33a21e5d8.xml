@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6 网点库存"
-    id="25906502-409c-4ed4-a089-3cc33a21e5d8"/>
+    name="6 网点管理"
+    id="25906502-409c-4ed4-a089-3cc33a21e5d8">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="192a5e8e-3b8e-499f-af0c-d7e195beff85"
+      name="货损管理"
+      textAlignment="1">
+    <bounds
+        x="72"
+        y="96"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>

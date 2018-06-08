@@ -9,7 +9,7 @@
       name="供应商管理"
       textAlignment="1">
     <bounds
-        x="36"
+        x="411"
         y="48"
         width="400"
         height="140"/>
@@ -32,7 +32,7 @@
       name="采购管理"
       textAlignment="1">
     <bounds
-        x="36"
+        x="411"
         y="187"
         width="400"
         height="307"/>
@@ -112,13 +112,13 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="a35a945d-4aea-477b-95f9-b9630380566d"
-      name="商品采购"
+      name="采购执行"
       textAlignment="1">
     <bounds
-        x="504"
-        y="120"
-        width="421"
-        height="325"/>
+        x="12"
+        y="187"
+        width="400"
+        height="307"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8087b063-a82b-4379-abe9-ce38606078f9">
@@ -133,21 +133,9 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="c3efcf59-796e-4c7c-8141-6d489f588066">
-      <bounds
-          x="24"
-          y="36"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessFunction"
-          href="BusinessFunction_a3788606-23e6-4625-9ca4-8cd2502c384e.xml#a3788606-23e6-4625-9ca4-8cd2502c384e"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="bfa630b4-8062-4112-bf75-aad13f1f5ae4">
       <bounds
-          x="180"
+          x="24"
           y="36"
           width="120"
           height="55"/>
@@ -166,6 +154,29 @@
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_d8299cc4-7388-463a-ab2b-5817086c1ed0.xml#d8299cc4-7388-463a-ab2b-5817086c1ed0"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="ad22203e-0f73-4c77-aaf6-fefea9c02995"
+      name="采购策略与采购计划"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="48"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="c3efcf59-796e-4c7c-8141-6d489f588066">
+      <bounds
+          x="24"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_a3788606-23e6-4625-9ca4-8cd2502c384e.xml#a3788606-23e6-4625-9ca4-8cd2502c384e"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>

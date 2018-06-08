@@ -407,8 +407,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="afcea849-bdb9-4ea8-8e95-de68d49d7b95">
       <bounds
-          x="204"
-          y="168"
+          x="24"
+          y="348"
           width="120"
           height="55"/>
       <archimateElement
