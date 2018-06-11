@@ -7,23 +7,48 @@
       xsi:type="archimate:DiagramModelGroup"
       id="da65b14a-e9fe-4705-b72f-43ba934314f1"
       name="供应商管理"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#cce6e6">
     <bounds
         x="411"
         y="48"
-        width="400"
+        width="418"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="55c154f4-c3be-416b-9c2e-0c87e9b14bc3">
       <bounds
-          x="36"
+          x="24"
           y="48"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_a993c1d2-95f7-41a8-a5dc-25f342d76af0.xml#a993c1d2-95f7-41a8-a5dc-25f342d76af0"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="0fbcfe70-0d0f-4f65-a805-bb517403e1a6">
+      <bounds
+          x="288"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_b3cfd966-8f6e-4e37-906c-cda77ed4ac44.xml#b3cfd966-8f6e-4e37-906c-cda77ed4ac44"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="1a7999bc-f585-46f4-9448-7840699c8a8f">
+      <bounds
+          x="153"
+          y="49"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_a66d5d84-9e88-46be-a094-cf32ce4d098a.xml#a66d5d84-9e88-46be-a094-cf32ce4d098a"/>
     </children>
   </children>
   <children
@@ -34,7 +59,7 @@
     <bounds
         x="411"
         y="187"
-        width="400"
+        width="418"
         height="307"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
