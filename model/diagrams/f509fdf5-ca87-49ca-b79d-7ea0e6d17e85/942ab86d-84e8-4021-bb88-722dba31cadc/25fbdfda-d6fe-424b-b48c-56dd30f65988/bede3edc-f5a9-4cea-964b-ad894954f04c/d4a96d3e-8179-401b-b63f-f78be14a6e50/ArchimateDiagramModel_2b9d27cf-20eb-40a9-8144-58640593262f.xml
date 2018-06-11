@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="#外出"
+    name="# 外出"
     id="2b9d27cf-20eb-40a9-8144-58640593262f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

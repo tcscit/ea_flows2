@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="#资质使用申请"
+    name="# 资质使用申请"
     id="cead9baa-4406-4ba4-a633-ecf66d894bda">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
