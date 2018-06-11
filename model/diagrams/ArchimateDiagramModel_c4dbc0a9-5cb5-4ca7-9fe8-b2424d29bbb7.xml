@@ -1318,6 +1318,42 @@
             xsi:type="archimate:BusinessFunction"
             href="BusinessFunction_010fa3c9-b72c-4a88-b118-9aca8187d54c.xml#010fa3c9-b72c-4a88-b118-9aca8187d54c"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="2141feaf-af9e-4111-8f6d-382fdeea1bdf">
+        <bounds
+            x="1032"
+            y="36"
+            width="289"
+            height="277"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_c7a6064e-c1b3-45bd-a85b-54cd18c1d3b7.xml#c7a6064e-c1b3-45bd-a85b-54cd18c1d3b7"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="b14b6dc7-99a8-41a8-9441-d0bb1472a4a2">
+        <bounds
+            x="1188"
+            y="84"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessFunction"
+            href="BusinessFunction_2aedabd3-4262-45f5-8b82-572e2ab1ac87.xml#2aedabd3-4262-45f5-8b82-572e2ab1ac87"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="7fd90eee-6cc8-4201-bff0-7c1fb1004673">
+        <bounds
+            x="1056"
+            y="84"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessFunction"
+            href="BusinessFunction_aee7ec35-325e-4cab-9f25-a68bfbf90602.xml#aee7ec35-325e-4cab-9f25-a68bfbf90602"/>
+      </children>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
