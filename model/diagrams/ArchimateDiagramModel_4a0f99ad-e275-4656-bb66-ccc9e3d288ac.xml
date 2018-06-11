@@ -272,5 +272,41 @@
         y="372"
         width="1213"
         height="205"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="4316556a-10d1-491c-8705-9414db3bcb4c">
+      <bounds
+          x="252"
+          y="72"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_25338c6c-58d8-4168-83b2-68ee78f9bba7.xml#25338c6c-58d8-4168-83b2-68ee78f9bba7"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="2b857d87-ecac-4680-91d0-d3227d7ca168">
+      <bounds
+          x="432"
+          y="72"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_d770dfa3-28eb-451b-9ac8-f40653d5a885.xml#d770dfa3-28eb-451b-9ac8-f40653d5a885"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="a51f2866-fb99-4e02-b42b-18be57b85e55">
+      <bounds
+          x="72"
+          y="72"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_69e35df2-6bc0-474c-8b6e-1169b16c784b.xml#69e35df2-6bc0-474c-8b6e-1169b16c784b"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>

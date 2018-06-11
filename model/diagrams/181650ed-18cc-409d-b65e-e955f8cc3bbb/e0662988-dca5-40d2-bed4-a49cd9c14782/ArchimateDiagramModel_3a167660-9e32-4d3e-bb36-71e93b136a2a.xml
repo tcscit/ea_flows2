@@ -1,4 +1,41 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2 渠道发展"
-    id="3a167660-9e32-4d3e-bb36-71e93b136a2a"/>
+    id="3a167660-9e32-4d3e-bb36-71e93b136a2a">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="1cc5b6af-7259-4a0d-9901-e2fabccd602e"
+      name="市场拓展"
+      textAlignment="1">
+    <bounds
+        x="60"
+        y="96"
+        width="400"
+        height="253"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="0c9d2ea0-d23f-47fc-b1db-3a6875a3f387">
+      <bounds
+          x="24"
+          y="72"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_87801559-9676-4c8e-8853-a57b01bee37d.xml#87801559-9676-4c8e-8853-a57b01bee37d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="c3da6dbf-a0eb-417d-8d40-6759659ee4d2">
+      <bounds
+          x="204"
+          y="72"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_db210070-e582-4be3-bff1-7dc3fc03408b.xml#db210070-e582-4be3-bff1-7dc3fc03408b"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
