@@ -32,9 +32,9 @@
       name="网点运营"
       textAlignment="1">
     <bounds
-        x="516"
-        y="24"
-        width="493"
+        x="24"
+        y="168"
+        width="445"
         height="265"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -58,7 +58,7 @@
             href="CompositionRelationship_aa4b11fc-0a80-4abf-9cb5-d7ff1c474b83.xml#aa4b11fc-0a80-4abf-9cb5-d7ff1c474b83"/>
       </sourceConnections>
       <bounds
-          x="204"
+          x="192"
           y="36"
           width="205"
           height="193"/>
@@ -105,8 +105,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5407d96f-3006-4733-adf3-c12128e11673">
       <bounds
-          x="36"
-          y="36"
+          x="12"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
