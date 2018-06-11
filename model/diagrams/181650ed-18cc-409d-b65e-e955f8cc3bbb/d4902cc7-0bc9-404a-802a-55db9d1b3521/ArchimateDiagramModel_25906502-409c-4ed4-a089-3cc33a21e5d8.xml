@@ -7,10 +7,11 @@
       xsi:type="archimate:DiagramModelGroup"
       id="192a5e8e-3b8e-499f-af0c-d7e195beff85"
       name="货损管理"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#cce6e6">
     <bounds
         x="72"
-        y="96"
+        y="132"
         width="301"
         height="169"/>
     <children

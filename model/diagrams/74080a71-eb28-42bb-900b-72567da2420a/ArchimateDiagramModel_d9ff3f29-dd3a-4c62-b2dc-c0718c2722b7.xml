@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="bb5ac3a4-ca45-4e75-b4e1-ea7503e4ae9b"
       name="请款"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#cce6e6">
     <bounds
         x="60"
         y="48"
@@ -102,7 +103,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="4f2ad62c-d421-4101-a71b-afca9d8a59ba"
       name="报销"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#cce6e6">
     <bounds
         x="60"
         y="192"
@@ -139,7 +141,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="006492b2-a63a-467d-9283-0b8fcbdc9070"
       name="薪资调整"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#cce6e6">
     <bounds
         x="60"
         y="336"

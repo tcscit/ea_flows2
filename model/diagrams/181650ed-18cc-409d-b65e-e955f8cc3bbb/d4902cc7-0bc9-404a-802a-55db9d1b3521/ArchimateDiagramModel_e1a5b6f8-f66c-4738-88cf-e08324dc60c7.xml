@@ -138,7 +138,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="a35a945d-4aea-477b-95f9-b9630380566d"
       name="采购执行"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#cce6e6">
     <bounds
         x="12"
         y="187"

@@ -10,7 +10,7 @@
       textAlignment="1">
     <bounds
         x="36"
-        y="120"
+        y="48"
         width="241"
         height="301"/>
     <children
@@ -74,10 +74,11 @@
       xsi:type="archimate:DiagramModelGroup"
       id="a5742753-19f2-43d2-ad5d-c204d4d872a0"
       name="车辆管理"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#cce6e6">
     <bounds
         x="36"
-        y="420"
+        y="348"
         width="241"
         height="181"/>
     <children
@@ -97,10 +98,11 @@
       xsi:type="archimate:DiagramModelGroup"
       id="285c0db5-fe09-4cde-aae9-578e9b6eb462"
       name="文印资质"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#cce6e6">
     <bounds
         x="276"
-        y="120"
+        y="48"
         width="253"
         height="301"/>
     <children

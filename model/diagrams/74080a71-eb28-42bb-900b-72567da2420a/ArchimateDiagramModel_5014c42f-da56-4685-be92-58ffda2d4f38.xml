@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="eb34052f-07fb-4e51-81bf-0d104a606616"
       name="绩效管理"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#cce6e6">
     <bounds
         x="24"
         y="24"
@@ -319,7 +320,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="e26093f8-8d01-46e5-bbd9-20786a089525"
       name="招聘与配置"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#cce6e6">
     <bounds
         x="840"
         y="48"
