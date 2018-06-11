@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="无损耗"
+    id="0cb223e5-3df7-457c-9db7-2b2865d40bad">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_08160434-e8a4-4316-84bf-c41ee81196ec.xml#08160434-e8a4-4316-84bf-c41ee81196ec"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_72b60d0e-e5b1-4de8-9ee6-372e99571c16.xml#72b60d0e-e5b1-4de8-9ee6-372e99571c16"/>
+</archimate:TriggeringRelationship>

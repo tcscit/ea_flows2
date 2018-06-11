@@ -578,7 +578,7 @@
             xsi:type="archimate:DiagramModelReference"
             id="466c4d53-6dc7-465f-bef1-69efaaa2b82f">
           <bounds
-              x="575"
+              x="336"
               y="60"
               width="133"
               height="55"/>
@@ -590,7 +590,7 @@
             xsi:type="archimate:DiagramModelReference"
             id="adcedf84-093b-4381-a161-c082412444c2">
           <bounds
-              x="694"
+              x="492"
               y="60"
               width="133"
               height="55"/>
@@ -602,7 +602,7 @@
             xsi:type="archimate:DiagramModelReference"
             id="0f919467-90ef-4584-9c40-0524ca4581dd">
           <bounds
-              x="813"
+              x="648"
               y="60"
               width="133"
               height="55"/>
@@ -614,7 +614,7 @@
             xsi:type="archimate:DiagramModelReference"
             id="012ac44c-e101-4446-aaee-03002832b860">
           <bounds
-              x="932"
+              x="804"
               y="60"
               width="133"
               height="55"/>
@@ -626,7 +626,7 @@
             xsi:type="archimate:DiagramModelReference"
             id="cb969ddb-0fc2-438c-9e3f-23cd4dbeec49">
           <bounds
-              x="1051"
+              x="960"
               y="60"
               width="133"
               height="55"/>
@@ -638,7 +638,7 @@
             xsi:type="archimate:DiagramModelReference"
             id="018b4afa-e360-46fd-b63e-fda97aaaef68">
           <bounds
-              x="1175"
+              x="1116"
               y="60"
               width="133"
               height="55"/>
