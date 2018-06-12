@@ -334,8 +334,8 @@
           href="AssignmentRelationship_b182f718-84ef-470e-847a-51aacd0bd880.xml#b182f718-84ef-470e-847a-51aacd0bd880"/>
     </sourceConnections>
     <bounds
-        x="1308"
-        y="480"
+        x="1368"
+        y="300"
         width="120"
         height="55"/>
     <archimateElement
@@ -355,8 +355,8 @@
           href="AssignmentRelationship_0489556f-bcde-43de-a64f-86621a347d0c.xml#0489556f-bcde-43de-a64f-86621a347d0c"/>
     </sourceConnections>
     <bounds
-        x="1368"
-        y="300"
+        x="1320"
+        y="480"
         width="120"
         height="55"/>
     <archimateElement
