@@ -1,4 +1,29 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6 产品开发"
-    id="b79d003e-3ebb-455a-ba48-39132450e13d"/>
+    name="4 商品开发"
+    id="b79d003e-3ebb-455a-ba48-39132450e13d">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="ac59d5db-8c5b-4b54-addf-ad9ee13b0ec6"
+      name="采购准备"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="60"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="cbbf3f93-4fbf-4d25-ab7d-8b81e02b0ec9">
+      <bounds
+          x="24"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_a993c1d2-95f7-41a8-a5dc-25f342d76af0.xml#a993c1d2-95f7-41a8-a5dc-25f342d76af0"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

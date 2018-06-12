@@ -1,4 +1,41 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2 市场分析"
-    id="c76acffe-0e69-4781-a44a-926cf9193af7"/>
+    id="c76acffe-0e69-4781-a44a-926cf9193af7">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="930b5dd3-7f13-45a0-a7f4-c3d14e331e42"
+      name="新品调查"
+      textAlignment="1">
+    <bounds
+        x="63"
+        y="80"
+        width="790"
+        height="269"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="cd2d9596-b79a-4f28-99af-56b75095f69c">
+      <bounds
+          x="24"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_c1243039-99a8-446a-8ffe-3760c254465d.xml#c1243039-99a8-446a-8ffe-3760c254465d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="5614bbe9-4fa4-4e48-8789-febd83544515">
+      <bounds
+          x="183"
+          y="62"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_22d4d8e3-b57f-4595-95b5-4879afe504f2.xml#22d4d8e3-b57f-4595-95b5-4879afe504f2"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
