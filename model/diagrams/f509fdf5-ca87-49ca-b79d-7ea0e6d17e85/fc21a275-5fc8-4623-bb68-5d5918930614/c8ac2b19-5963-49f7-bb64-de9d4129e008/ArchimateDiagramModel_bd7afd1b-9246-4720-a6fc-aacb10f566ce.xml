@@ -5,28 +5,7 @@
     id="bd7afd1b-9246-4720-a6fc-aacb10f566ce">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="a27f55fd-edce-4064-ad67-49bd3b185ca7"
-      targetConnections="71eaf561-dbda-4add-92ef-5fe688c88f42">
-    <bounds
-        y="108"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_04d6aff4-6084-434d-b78a-f6984d5d359a.xml#04d6aff4-6084-434d-b78a-f6984d5d359a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="01c2021d-406f-4b94-b679-874241292090">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="71eaf561-dbda-4add-92ef-5fe688c88f42"
-        source="01c2021d-406f-4b94-b679-874241292090"
-        target="a27f55fd-edce-4064-ad67-49bd3b185ca7">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_a81982ac-56fd-4aa2-94cf-7f1930ac7a23.xml#a81982ac-56fd-4aa2-94cf-7f1930ac7a23"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="148388d1-d242-45da-9283-1a268877a8c2"
