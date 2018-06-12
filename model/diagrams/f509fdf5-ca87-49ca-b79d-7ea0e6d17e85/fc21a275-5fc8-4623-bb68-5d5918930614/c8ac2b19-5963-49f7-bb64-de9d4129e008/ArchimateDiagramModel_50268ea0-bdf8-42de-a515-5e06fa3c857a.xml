@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="# 盘点作业"
+    id="50268ea0-bdf8-42de-a515-5e06fa3c857a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e726d04f-c53c-472e-91bb-6c9199cba58f">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_1692a6bf-5e3f-4941-bc78-31e898419d2a.xml#1692a6bf-5e3f-4941-bc78-31e898419d2a"/>
+  </children>
+</archimate:ArchimateDiagramModel>
