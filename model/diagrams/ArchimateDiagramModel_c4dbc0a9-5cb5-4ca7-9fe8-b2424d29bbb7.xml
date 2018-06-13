@@ -264,7 +264,8 @@
         </children>
         <children
             xsi:type="archimate:DiagramModelReference"
-            id="161c4406-bb83-448d-b91f-eeb2a8f5bb64">
+            id="161c4406-bb83-448d-b91f-eeb2a8f5bb64"
+            fillColor="#efefef">
           <bounds
               x="12"
               y="300"
@@ -684,18 +685,6 @@
         </children>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
-            id="a0921239-4fc6-44fe-b5cf-888300d92161">
-          <bounds
-              x="499"
-              y="182"
-              width="120"
-              height="55"/>
-          <archimateElement
-              xsi:type="archimate:BusinessFunction"
-              href="BusinessFunction_46d4704e-9a3f-4bd6-a4a2-87d39cb4b02e.xml#46d4704e-9a3f-4bd6-a4a2-87d39cb4b02e"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
             id="55d274f3-a093-4a4c-9632-138b484f8fcd">
           <bounds
               x="655"
@@ -732,7 +721,8 @@
             height="469"/>
         <children
             xsi:type="archimate:DiagramModelReference"
-            id="06ff5863-0c3c-4d45-9da8-62d38956014d">
+            id="06ff5863-0c3c-4d45-9da8-62d38956014d"
+            fillColor="#efefef">
           <bounds
               x="21"
               y="372"

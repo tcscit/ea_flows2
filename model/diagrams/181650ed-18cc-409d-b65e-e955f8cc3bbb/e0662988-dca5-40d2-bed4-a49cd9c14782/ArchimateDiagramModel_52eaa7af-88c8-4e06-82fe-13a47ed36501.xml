@@ -85,4 +85,40 @@
           href="BusinessFunction_3572c322-914c-4510-8c2e-74a01cb6d927.xml#3572c322-914c-4510-8c2e-74a01cb6d927"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="73e2ea0e-426e-4f8c-b921-28c0d6a0ba36"
+      name="定价管理"
+      textAlignment="1">
+    <bounds
+        x="468"
+        y="187"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="85bb3754-05e1-44d5-b4dc-f219e7af3b72"
+        fillColor="#ff8080">
+      <bounds
+          x="26"
+          y="35"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_01fb1c8f-0035-4f78-9bb4-1bdc7b0435f4.xml#01fb1c8f-0035-4f78-9bb4-1bdc7b0435f4"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="387f23ee-4d34-4e6e-9423-7c9a99c45032">
+      <bounds
+          x="180"
+          y="35"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_6b503025-1a42-4e71-97fa-90cd5575609d.xml#6b503025-1a42-4e71-97fa-90cd5575609d"/>
+    </children>
+  </children>
 </archimate:ArchimateDiagramModel>

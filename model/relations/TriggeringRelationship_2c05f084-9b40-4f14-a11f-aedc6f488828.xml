@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="库存不足"
+    id="2c05f084-9b40-4f14-a11f-aedc6f488828">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_37b40a09-706d-4301-b681-cd82531a3158.xml#37b40a09-706d-4301-b681-cd82531a3158"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_4aae96c5-4070-4001-b7b1-5d0eef136be6.xml#4aae96c5-4070-4001-b7b1-5d0eef136be6"/>
+</archimate:TriggeringRelationship>

@@ -171,7 +171,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="3c37fa27-c14b-446f-a0be-68cc9a0aba6d">
+        id="3c37fa27-c14b-446f-a0be-68cc9a0aba6d"
+        fillColor="#ff0000">
       <bounds
           x="180"
           y="120"
@@ -186,7 +187,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="ad22203e-0f73-4c77-aaf6-fefea9c02995"
       name="采购策略与采购计划"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#dbffff">
     <bounds
         x="12"
         y="48"
