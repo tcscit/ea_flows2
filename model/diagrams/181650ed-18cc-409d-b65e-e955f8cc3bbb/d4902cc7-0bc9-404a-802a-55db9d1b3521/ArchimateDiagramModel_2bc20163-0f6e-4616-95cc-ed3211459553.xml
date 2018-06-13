@@ -164,12 +164,21 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="3ba541a6-fe00-4fad-87b9-de64a84980ba"
+          id="4702c54f-a80e-4158-abd8-91807fe992a5"
           source="64779e30-f613-4a79-85a0-bc69c9b2f6e5"
-          target="f581cbad-6b6c-4ae5-b8e4-2dc007d13691">
+          target="63f24e9b-0913-40eb-8ec6-c828a8ac8c5f">
         <archimateRelationship
             xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_8c95d4e2-407d-40cd-864e-03352b4cdb2c.xml#8c95d4e2-407d-40cd-864e-03352b4cdb2c"/>
+            href="CompositionRelationship_641643c1-7ad3-4b06-84c7-4732ae4d4b1c.xml#641643c1-7ad3-4b06-84c7-4732ae4d4b1c"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="34aba57e-89e1-4054-81b6-d9d31a84d2f4"
+          source="64779e30-f613-4a79-85a0-bc69c9b2f6e5"
+          target="f49300b4-d8bc-467b-93fa-7a681c86d60e">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_9cdf72b9-b482-4400-9404-43bfe988e7ba.xml#9cdf72b9-b482-4400-9404-43bfe988e7ba"/>
       </sourceConnections>
       <bounds
           x="156"
@@ -230,8 +239,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="f581cbad-6b6c-4ae5-b8e4-2dc007d13691"
-          targetConnections="3ba541a6-fe00-4fad-87b9-de64a84980ba">
+          id="63f24e9b-0913-40eb-8ec6-c828a8ac8c5f"
+          targetConnections="4702c54f-a80e-4158-abd8-91807fe992a5">
         <bounds
             x="156"
             y="120"
@@ -239,7 +248,20 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
-            href="BusinessFunction_5705d4d6-711a-459d-ad18-c218867de56f.xml#5705d4d6-711a-459d-ad18-c218867de56f"/>
+            href="BusinessFunction_f8589d24-f8f5-4c96-814b-77450b8fdbe2.xml#f8589d24-f8f5-4c96-814b-77450b8fdbe2"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="f49300b4-d8bc-467b-93fa-7a681c86d60e"
+          targetConnections="34aba57e-89e1-4054-81b6-d9d31a84d2f4">
+        <bounds
+            x="156"
+            y="192"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessFunction"
+            href="BusinessFunction_57bc68b5-0eaa-416a-a1da-dddd53644d83.xml#57bc68b5-0eaa-416a-a1da-dddd53644d83"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessFunction"

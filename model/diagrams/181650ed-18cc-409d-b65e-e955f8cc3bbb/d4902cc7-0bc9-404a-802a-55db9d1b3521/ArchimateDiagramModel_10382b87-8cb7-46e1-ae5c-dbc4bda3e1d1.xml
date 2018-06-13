@@ -11,19 +11,31 @@
     <bounds
         x="48"
         y="84"
-        width="325"
+        width="421"
         height="157"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="98490168-1d1d-4efc-917d-5601dc2e544f">
       <bounds
-          x="96"
+          x="36"
           y="60"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_f8589d24-f8f5-4c96-814b-77450b8fdbe2.xml#f8589d24-f8f5-4c96-814b-77450b8fdbe2"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="70201750-ef5c-4467-8cc6-d8725fc766b4">
+      <bounds
+          x="180"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_57bc68b5-0eaa-416a-a1da-dddd53644d83.xml#57bc68b5-0eaa-416a-a1da-dddd53644d83"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>

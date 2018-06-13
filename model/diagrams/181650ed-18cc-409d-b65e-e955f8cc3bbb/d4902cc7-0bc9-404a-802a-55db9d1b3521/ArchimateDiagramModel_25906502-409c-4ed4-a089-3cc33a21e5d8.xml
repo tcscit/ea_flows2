@@ -5,26 +5,25 @@
     id="25906502-409c-4ed4-a089-3cc33a21e5d8">
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="192a5e8e-3b8e-499f-af0c-d7e195beff85"
-      name="货损管理"
-      textAlignment="1"
-      fillColor="#cce6e6">
+      id="bf1909b4-d80c-49ed-86ac-70725d1868d8"
+      name="网点库存管理"
+      textAlignment="1">
     <bounds
-        x="72"
+        x="384"
         y="132"
         width="301"
         height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="d7013853-cd66-4f7f-a695-65b3e7b57f93">
+        id="4a8472ec-3a68-4464-baef-d26ff07d0fa5">
       <bounds
           x="36"
-          y="72"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
-          href="BusinessFunction_63e13346-dfbf-4973-b30d-327427b40490.xml#63e13346-dfbf-4973-b30d-327427b40490"/>
+          href="BusinessFunction_a6e0221f-7f28-4ea1-b0b6-901efb5af364.xml#a6e0221f-7f28-4ea1-b0b6-901efb5af364"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
