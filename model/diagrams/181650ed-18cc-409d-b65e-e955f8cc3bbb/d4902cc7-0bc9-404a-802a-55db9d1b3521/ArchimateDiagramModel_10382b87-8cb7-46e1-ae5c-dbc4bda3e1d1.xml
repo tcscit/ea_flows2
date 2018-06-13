@@ -1,4 +1,29 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4 生产加工"
-    id="10382b87-8cb7-46e1-ae5c-dbc4bda3e1d1"/>
+    id="10382b87-8cb7-46e1-ae5c-dbc4bda3e1d1">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="f0f95658-1df1-4560-a52c-985e90b33863"
+      name="生产加工"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="84"
+        width="325"
+        height="157"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="98490168-1d1d-4efc-917d-5601dc2e544f">
+      <bounds
+          x="96"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_f8589d24-f8f5-4c96-814b-77450b8fdbe2.xml#f8589d24-f8f5-4c96-814b-77450b8fdbe2"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
