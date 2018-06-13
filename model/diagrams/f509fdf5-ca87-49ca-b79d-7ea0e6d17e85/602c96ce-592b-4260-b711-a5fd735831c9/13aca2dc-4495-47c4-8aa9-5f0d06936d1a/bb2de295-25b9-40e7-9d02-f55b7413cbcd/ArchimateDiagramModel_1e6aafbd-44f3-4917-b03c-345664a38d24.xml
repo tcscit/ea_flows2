@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="# 铺货管理"
+    id="1e6aafbd-44f3-4917-b03c-345664a38d24">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="955ae26a-1e5c-4509-832f-c322c1bf716b">
+    <bounds
+        x="168"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_37b40a09-706d-4301-b681-cd82531a3158.xml#37b40a09-706d-4301-b681-cd82531a3158"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="163ef186-7517-4825-ab00-4e2c84eba4e7">
+    <bounds
+        x="516"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_5e75f3a9-dee2-431a-8f63-c5b1ecf8fb87.xml#5e75f3a9-dee2-431a-8f63-c5b1ecf8fb87"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="22f9d459-fb9f-48ff-bb6a-ad9564e1485c">
+    <bounds
+        x="336"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_cb98b4d9-c496-4a85-9a70-b74fb073c85b.xml#cb98b4d9-c496-4a85-9a70-b74fb073c85b"/>
+  </children>
+</archimate:ArchimateDiagramModel>

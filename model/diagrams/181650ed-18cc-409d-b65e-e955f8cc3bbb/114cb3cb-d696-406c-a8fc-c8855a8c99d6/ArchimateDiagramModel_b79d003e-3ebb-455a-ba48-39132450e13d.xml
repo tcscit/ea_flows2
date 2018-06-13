@@ -6,11 +6,11 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="ac59d5db-8c5b-4b54-addf-ad9ee13b0ec6"
-      name="采购准备"
+      name="采购方案"
       textAlignment="1">
     <bounds
         x="48"
-        y="60"
+        y="120"
         width="400"
         height="140"/>
     <children

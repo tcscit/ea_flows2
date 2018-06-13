@@ -12,7 +12,7 @@
         x="60"
         y="96"
         width="400"
-        height="253"/>
+        height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0c9d2ea0-d23f-47fc-b1db-3a6875a3f387">
@@ -36,6 +36,41 @@
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_db210070-e582-4be3-bff1-7dc3fc03408b.xml#db210070-e582-4be3-bff1-7dc3fc03408b"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="c63303d8-77b2-49d5-9ad4-97fa87be3e78"
+      name="渠道合同管理"
+      textAlignment="1">
+    <bounds
+        x="65"
+        y="298"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="7e207d05-f51c-4ca1-a28f-8d9e6d5b81f9">
+      <bounds
+          x="24"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_bca43f16-8929-47d4-bafb-00d6b11db0b1.xml#bca43f16-8929-47d4-bafb-00d6b11db0b1"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="6beedc4d-077f-40e3-b9ee-38bf873528af">
+      <bounds
+          x="204"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_675b590f-5f57-4c80-b755-8e471dcd4cf1.xml#675b590f-5f57-4c80-b755-8e471dcd4cf1"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
