@@ -17,7 +17,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="192"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement
@@ -261,7 +261,7 @@
       targetConnections="d9556742-6acb-451f-acee-4323c820c711"
       fillColor="#80ff80">
     <bounds
-        x="1008"
+        x="1152"
         y="180"
         width="120"
         height="55"/>
