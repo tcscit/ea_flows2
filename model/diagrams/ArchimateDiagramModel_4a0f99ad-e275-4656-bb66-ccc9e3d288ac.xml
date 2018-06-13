@@ -277,7 +277,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="ad47763b-bd42-47d8-bdfe-82db45967ac5"
       name="采购订货全流程"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#d9ecff">
     <bounds
         x="24"
         y="264"
@@ -388,7 +389,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="0bce65fb-6421-472f-82b5-86314474e776"
       name="开通网点"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#d9ecff">
     <bounds
         x="26"
         y="432"
