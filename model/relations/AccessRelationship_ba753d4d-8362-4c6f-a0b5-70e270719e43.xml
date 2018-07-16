@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="填写比例"
     id="ba753d4d-8362-4c6f-a0b5-70e270719e43">
   <source
       xsi:type="archimate:ApplicationFunction"

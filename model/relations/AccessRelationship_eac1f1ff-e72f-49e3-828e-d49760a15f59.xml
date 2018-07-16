@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="自动生成"
     id="eac1f1ff-e72f-49e3-828e-d49760a15f59">
   <source
       xsi:type="archimate:ApplicationFunction"
