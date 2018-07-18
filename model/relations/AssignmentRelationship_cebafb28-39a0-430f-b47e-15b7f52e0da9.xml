@@ -1,12 +1,11 @@
-<archimate:AccessRelationship
+<archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="填写比例"
-    id="ba753d4d-8362-4c6f-a0b5-70e270719e43">
+    id="cebafb28-39a0-430f-b47e-15b7f52e0da9">
   <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7a470b09-2bab-49fe-b1c9-e3f05b8924db.xml#7a470b09-2bab-49fe-b1c9-e3f05b8924db"/>
+  <target
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_b4836908-1101-4fd7-9b45-ac45ab231d9b.xml#b4836908-1101-4fd7-9b45-ac45ab231d9b"/>
-  <target
-      xsi:type="archimate:DataObject"
-      href="DataObject_853de15a-278e-4b38-922e-7e85b228b43f.xml#853de15a-278e-4b38-922e-7e85b228b43f"/>
-</archimate:AccessRelationship>
+</archimate:AssignmentRelationship>
