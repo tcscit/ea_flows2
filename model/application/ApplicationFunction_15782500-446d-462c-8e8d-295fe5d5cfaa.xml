@@ -1,4 +1,4 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="系统自动创建采购申请单"
+    name="根据拆单生成采购申请单"
     id="15782500-446d-462c-8e8d-295fe5d5cfaa"/>
